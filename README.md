@@ -35,10 +35,3 @@ The extracted data includes product details such as URL, SKU, name, category, br
 ### 5. Access the API
    Go to http://127.0.0.1:5000/air_conditioners
    Find specific product by ID : http://127.0.0.1:5000/air_conditioners/<product_id>
-
-```bash
-# This is a bash command
-git clone https://github.com/your-repo.git
-cd your-repo
-pip install -r requirements.txt
-
